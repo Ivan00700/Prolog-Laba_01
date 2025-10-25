@@ -1,3 +1,4 @@
+:- set_prolog_flag(encoding, utf8).
 student(102,'Петров').
 student(101,'Петровский').
 student(104,'Иванов').
